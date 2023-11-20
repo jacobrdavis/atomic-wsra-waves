@@ -8,4 +8,4 @@ To follow along with the analysis, the notebooks should be run in the following 
 2. `calculate.ipynb`
 3. `compare.ipynb`
 
-The notebooks can be run in any order, since notebooks which depend on other notebooks (i.e., `compare.ipynb`) call the neccessary dependencies in order.
+The notebooks can be run in any order, since notebooks which depend on other notebooks (i.e., `compare.ipynb`) call the neccessary dependencies in order.  The module `sharedfunctions.py` is called by the notebooks as needed and does not need to be run manually.
