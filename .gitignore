@@ -3,6 +3,7 @@ dev_notes.md
 ./figures
 *.gif
 *.png
+wsra_atomic.ipynb
 
 # MacOS stuff
 .DS_store
